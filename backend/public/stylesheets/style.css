@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(208, 239, 248);
+  padding: 16px 0;
+  text-align: center;
+
+}
+
+header h1 {
+  color: rgb(23, 111, 194);
+  font-size: 40px;
+  font-weight: 100;
+  font-style: italic;
+  display: inline-block;
+  position: relative;
+  margin-left: 10px;
+}
+
+footer {
+  background-color:rgb(174, 173, 172);
+  color: rgb(36, 35, 35);
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+body{
+  font-size: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder{
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+h2{
+  text-align: center;
+  color: rgb(13, 100, 199);
+}
+h1{
+  text-align: center;
+  margin: 40px;
+}
+
+.formulario{
+  margin-top: 30px;
+
+  margin-left: 30px;
+  
+}
+

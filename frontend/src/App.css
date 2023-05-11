@@ -1,0 +1,22 @@
+body{
+  font-size: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder{
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+h2{
+  text-align: center;
+  color: rgb(13, 100, 199);
+}
+h1{
+  text-align: center;
+  margin: 40px;
+}
+
+
+

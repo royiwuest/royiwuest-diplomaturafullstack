@@ -1,0 +1,27 @@
+.items {
+    /* display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    align-content: center;
+    align-items: center;
+    justify-content: center;  */
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin: 20px; 
+}
+
+.item {
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 35%;
+    height: 45%;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.items img {
+    width: 50%;
+}

@@ -1,0 +1,22 @@
+.productos{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  margin: 20px;
+  
+}
+.producto{
+  box-sizing: border-box;
+  border-radius: 20px;
+  margin-top: 20px;
+  width: 20%;
+  text-align: center;
+  border: 1px solid #ddd;
+  
+}
+
+.producto img {
+  width: 90%;
+}
+
+
